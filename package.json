@@ -1,7 +1,7 @@
 {
-  "name": "@sitting/eslint-rules",
+  "name": "@sitting/eslint-config",
   "version": "1.0.0",
-  "description": "My eslint rules",
+  "description": "My basic JS ESLint rules. Should extend other configs.",
   "main": "index.js",
   "repository": "https://github.com/timas130/eslint-rules.git",
   "author": "sitting33 <me@33rd.dev>",
