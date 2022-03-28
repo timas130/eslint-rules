@@ -1,9 +1,12 @@
 {
   "name": "@sitting/eslint-rules",
   "version": "1.0.0",
-  "description": "my eslint rules",
+  "description": "My eslint rules",
   "main": "index.js",
   "repository": "https://github.com/timas130/eslint-rules.git",
   "author": "sitting33 <me@33rd.dev>",
-  "license": "WTFPL"
+  "license": "WTFPL",
+  "peerDependencies": {
+    "eslint": ">= 7"
+  }
 }
